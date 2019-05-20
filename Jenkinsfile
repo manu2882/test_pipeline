@@ -19,7 +19,7 @@ pipeline {
                                         branch "master"
                                       }
                                       
-                                  step {
+                                  steps {
                                         echo "Hello"
                                        }
                                 }
